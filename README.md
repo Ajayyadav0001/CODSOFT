@@ -30,7 +30,11 @@ Each task has its own corresponding directory with source code, explanations, an
 
 ## Contributing
 
-While this repository primarily serves as a record of my internship tasks, I welcome suggestions, improvements, and collaborations. Feel free to open an issue or submit a pull request if you have any valuable input.
+## Output View
+![Screenshot 2023-11-06 200020](https://github.com/Ajayyadav0001/CODSOFT/assets/131473262/9dd0fd5d-6b0e-44b6-85ca-fda413480bed)
+
+While this repository primarily serve![Screenshot 2023-11-06 200145](https://github.com/Ajayyadav0001/CODSOFT/assets/131473262/01426f92-41c2-4c08-933c-eb71f7e29783)
+s as a record of my internship tasks, I welcome suggestions, improvements, and collaborations. Feel free to open an issue or submit a pull request if you have any valuable input.
 
 **AJAY YADAV**
 
