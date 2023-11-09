@@ -37,9 +37,16 @@ While this repository primarily serves as a record of my internship tasks, I wel
  Happy coding!
 
 
-## Output View
+## Output View of Number Guessing Game.
 ![Screenshot 2023-11-06 200020](https://github.com/Ajayyadav0001/CODSOFT/assets/131473262/9dd0fd5d-6b0e-44b6-85ca-fda413480bed)
 
 ![Screenshot 2023-11-06 200145](https://github.com/Ajayyadav0001/CODSOFT/assets/131473262/01426f92-41c2-4c08-933c-eb71f7e29783)
+
+## Output View of Student Grade Calculator.
+![Screenshot 2023-11-09 090706](https://github.com/Ajayyadav0001/CODSOFT/assets/131473262/033994c3-b3a2-479c-8d36-589d2b462189)
+![Screenshot 2023-11-09 090641](https://github.com/Ajayyadav0001/CODSOFT/assets/131473262/4310bb37-4c29-4d76-9a2e-40ca127fda7a)
+![Screenshot 2023-11-09 090641](https://github.com/Ajayyadav0001/CODSOFT/assets/131473262/9407513d-f999-4574-83d7-d5d7f0830a36)
+![Screenshot 2023-11-09 090706](https://github.com/Ajayyadav0001/CODSOFT/assets/131473262/375a3b4d-b2a3-4a08-9176-771383f2932b)
+
 
 
