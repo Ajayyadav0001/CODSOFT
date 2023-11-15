@@ -46,5 +46,12 @@ While this repository primarily serves as a record of my internship tasks, I wel
 ![Screenshot 2023-11-09 090641](https://github.com/Ajayyadav0001/CODSOFT/assets/131473262/4310bb37-4c29-4d76-9a2e-40ca127fda7a)
 ![Screenshot 2023-11-09 090706](https://github.com/Ajayyadav0001/CODSOFT/assets/131473262/375a3b4d-b2a3-4a08-9176-771383f2932b)
 
+## Output View of ATM Interface.
+![Screenshot 2023-11-15 081859](https://github.com/Ajayyadav0001/CODSOFT/assets/131473262/7c3b63d5-e8b3-46dd-9c01-b0ee8af2e636)
+![Screenshot 2023-11-15 081953](https://github.com/Ajayyadav0001/CODSOFT/assets/131473262/e6039592-07c2-4dac-bd3a-49b412b6d016)
+
+
+
+
 
 
